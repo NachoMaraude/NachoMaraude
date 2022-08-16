@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full-Stack Developer from Argentina</h3>
 
 - 👨‍💻 My last project was [Henry Foodify](https://foodify-ten.vercel.app/)
 
