@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 My last project was [https://foodify-ten.vercel.app/](https://foodify-ten.vercel.app/)
+- 👨‍💻 My last project was [Henry Foodify](https://foodify-ten.vercel.app/)
 
 - 📫 How to reach me **maraudenacho@gmail.com**
 
