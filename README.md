@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio</h1>
 <h3 align="center">A 19 years old Full-Stack Developer from Mar del Plata, Buenos Aires, Argentina 🌎 </h3> 
-<h4 align="center"> I´m curious, I'm enjoy fixing bugs and I'm always learning new tecnologies to increase my knowledge. Recently, I learned agile methodologies like scrum and I learned tools like Redux Toolkit and Tailwind while worked at my final project in Soy Henry Bootcamp with 6 teammates. I hope overpass new challenges and grow up like Software Developer. </h4>
+<h4 align="center"> I'm curious, I enjoy fixing bugs and I'm always learning new technologies to increase my knowledge. Recently, I learned agile methodologies like scrum and I learned tools like Redux Toolkit and Tailwind while working on my final project in Soy Henry Bootcamp with 6 teammates. I hope overpass new challenges and grow as Software Developer. </h4>
 
 - 👨‍💻 My last project was [Henry Foodify](https://foodify-ten.vercel.app/)
 
